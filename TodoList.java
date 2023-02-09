@@ -14,7 +14,6 @@ public class TodoList {
         ordenaTarefasPrioridade();
     }
 
-
     public void removeTask(int index) {
         tasks.remove(index);
     }
